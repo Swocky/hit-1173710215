@@ -1,0 +1,1 @@
+Use g++ to compile the file. You don't need special package to run the program.
